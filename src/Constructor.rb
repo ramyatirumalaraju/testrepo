@@ -7,3 +7,4 @@ class Being
 end
 
 Being.new
+#
